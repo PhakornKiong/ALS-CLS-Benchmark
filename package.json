@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "alscontext": "^0.0.2",
     "autocannon": "^7.0.3",
     "cls-hooked": "^4.2.2",
     "express": "^4.17.1"
